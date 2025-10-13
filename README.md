@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Lydia Groza
 
-<!--
-**lydiagroza/lydiagroza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at UnitBV, currently in my second year. I am passionate about developing my technical skills, exploring new technologies, and building meaningful projects.
 
-Here are some ideas to get you started:
+About Me
+  -Focused on improving my knowledge in C++, Object-Oriented Programming, algorithms, and software development
+  -Motivated, disciplined, and always open to learning and collaboration
+  -Interested in both academic growth and practical, hands-on experience
+  -Eager to create new relationships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond the screen
+I spend a lot of time outdoors — it’s where I remember to breathe, reset, and challenge myself in different ways.
+  > I enjoy volleyball, especially for the teamwork and energy it brings
+  > I love hiking and rock climbing, spending time in nature whenever I can
+  > I care deeply about animals and enjoy time with my dog
+
+Technical Interests
+  <Category	Skills / Focus>
+  <Programming	C++, Python, Java (learning)>
+  <Concepts	OOP, Data Structures, Algorithms>
+
+Future Goals ->	Web Development, Open Source, Problem Solving
+Goals:
+  I aim to refine my coding abilities, contribute to real-world projects, and continuously grow as a developer and individual.
+Thank you for visiting my profile. I’m always open to new ideas, challenges, and opportunities to improve.
