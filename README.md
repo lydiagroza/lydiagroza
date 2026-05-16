@@ -42,7 +42,7 @@
 ## Off the keyboard!
 
 <p align="center">
-  <img src="hobbies.svg" alt="hobbies" />
+  <img src="hobbies_pixel_svg.svg" alt="hobbies" />
 </p>
 ---
 
