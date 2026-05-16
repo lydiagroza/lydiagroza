@@ -1,3 +1,5 @@
+![Pixelated Landscape](~/Documents/PixelLandscape.png)
+
 Hi, I'm Lydia Groza
 
 I’m a Computer Science student at UnitBV, currently in my second year. I am passionate about developing my technical skills, exploring new technologies, and building meaningful projects.
