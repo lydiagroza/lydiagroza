@@ -44,7 +44,6 @@
 <p align="center">
   <img src="hobbies_pixel_svg.svg" alt="hobbies" />
 </p>
----
 
 ## Connect
 
