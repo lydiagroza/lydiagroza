@@ -1,3 +1,4 @@
+
 ![Pixelated Landscape](PixelLandscape.png)
 
 Hi, I'm Lydia Groza
